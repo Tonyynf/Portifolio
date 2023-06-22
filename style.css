@@ -176,7 +176,7 @@ html{
 #form {
     width: 45%;
 }
-/* css responcivel */
+/* css responsivo teste */
 @media screen and (max-width: 980px){
     body{
         background-color: #808000;
